@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="GitHub Profile Banner">
+</p>
+
 # 👋 Hi, I'm Paul Washington  
 ### Developer • SysAdmin • WordPress Specialist • Homelab Engineer • Associate Pastor
 
@@ -118,12 +122,26 @@ My passion is using technology to solve real problems for communities, churches,
 ---
 
 ## 🤝 Connect with Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/pastor-paul-washington-473961151/  
-- 🕊️ **Grace Covenant Church of Mid Missouri:** https://www.mograce.org  
-- 🛠️ **Grace Community Multi Media:** https://www.gracecommunitymm.com  
-- 🔧 **ReTechX Electronics Refurbishing:** https://www.ebay.com/usr/retechxofficial  
-- 🧰 **Raes Appliance Repair:** https://www.raes.repair  
+
+- 💼 **LinkedIn:**  
+  [linkedin.com/in/pastor-paul-washington-473961151](https://www.linkedin.com/in/pastor-paul-washington-473961151/)
+
+- 🕊️ **Grace Covenant Church of Mid Missouri:**  
+  [mograce.org](https://www.mograce.org)
+
+- 🛠️ **Grace Community Multi Media:**  
+  [gracecommunitymm.com](https://www.gracecommunitymm.com)
+
+- 🔧 **ReTechX Electronics Refurbishing:**  
+  [eBay Store](https://www.ebay.com/usr/retechxofficial)
+
+- 🧰 **Raes Appliance Repair:**  
+  [raes.repair](https://www.raes.repair)
+
+- 💬 **Discord:**  
+  [![Discord](https://img.shields.io/badge/Discord-disgruntledtech.-000000?logo=discord&logoColor=5865F2&labelColor=111111)](#)
 
 ---
+
 
 Thanks for visiting — always building, always learning, always serving. 🙌

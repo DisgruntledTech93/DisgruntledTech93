@@ -108,7 +108,7 @@ My passion is using technology to solve real problems for communities, churches,
 ## 🤝 Connect with Me
 
 - 💼 **LinkedIn:**  
-  [linkedin.com/in/pastor-paul-washington-473961151](https://www.linkedin.com/in/pastor-paul-washington-473961151/)
+https://www.linkedin.com/in/paul-washington-473961151/
 
 - 🔧 **ReTechX Electronics Refurbishing:**  
   [eBay Store](https://www.ebay.com/usr/retechxofficial)

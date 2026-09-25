@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="GitHub Profile Banner" width="100%">
+  <img src="./banner.png"
+       alt="Paul Washington GitHub Profile Banner"
+       width="100%">
 </p>
 
 # 👋 Hi, I'm Paul Washington  

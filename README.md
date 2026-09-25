@@ -3,114 +3,176 @@
 </p>
 
 # 👋 Hi, I'm Paul Washington  
-### Developer • SysAdmin • WordPress Specialist • Homelab Engineer • Pastor
+### Developer • SysAdmin • WordPress Specialist • Accessibility Engineer • Homelab Engineer
 
-I build systems — digital, operational, and spiritual.  
-I'm an Application Developer with the State of Missouri, an Associate Pastor at Grace Covenant Church of Mid Missouri, and the owner/developer behind **Grace Community Multi Media**, **Raes Appliance Repair**, and **ReTechX**.
+I build systems that solve real-world problems.
 
-My passion is using technology to solve real problems for communities, churches, and small businesses.
+I'm an Application Developer with the State of Missouri and the developer behind **ReTechX**, with a focus on web development, accessibility, infrastructure, automation, self-hosted systems, and application development.
+
+I enjoy taking complicated technical problems and turning them into systems that are practical, maintainable, and useful.
 
 ---
 
 ## 🚀 What I Do
 
 ### 🧠 **Software & Web Development**
-- Full-stack JavaScript (Node.js, React/Next.js)
-- WordPress custom development (themes, components, branding)
-- REST API design and workflow automation
-- Documentation architectures using MkDocs + Material
+- JavaScript / TypeScript development
+- React and modern frontend development
+- WordPress custom development
+- PHP development
+- REST API design and integration
+- Python scripting and application development
+- Workflow and business-process automation
+
+### ♿ **Web Accessibility**
+- WCAG accessibility remediation
+- Section 508 compliance
+- Accessible WordPress development
+- Keyboard navigation and focus management
+- Semantic HTML and ARIA implementation
+- Accessibility testing and issue remediation
+- Siteimprove-based accessibility review
 
 ### 🧰 **Infrastructure & Automation**
-- Ubuntu Server administration  
-- Docker & containerized environments  
-- Cloudflare Zero-Trust networking  
-- Postgres + NocoDB backend systems  
-- n8n automation workflows (CSV pipelines, content generation, cloud storage automation)
+- Ubuntu Server administration
+- Docker and Docker Compose
+- Cloudflare Zero Trust and Cloudflare Tunnel
+- PostgreSQL databases
+- n8n automation workflows
+- Self-hosted development infrastructure
+- Linux system administration
+- Virtualization with KVM
 
-### ✝️ **Ministry Technology & Leadership** 
-- Sermon research, organization, and content development  
-- Ministry technology (media, livestreaming, digital systems)
-- Building tools that help pastors and churches operate effectively
+### 🔧 **Systems & Business Technology**
+- Electronics refurbishing systems
+- Inventory and catalog management
+- ERP and workflow integration
+- API-driven supplier integrations
+- E-commerce automation
+- Internal tools and operational software
 
 ---
 
 ## 🛠️ Tech & Tools I Use
 
 ### **Languages & Frameworks**
-- JavaScript / TypeScript  
-- Python  
-- Bash  
-- PHP (WordPress)  
-- React / Next.js  
-- Node.js  
+- JavaScript / TypeScript
+- Python
+- PHP
+- Bash
+- React
+- Node.js
+- WordPress
 
 ### **Systems & Infrastructure**
-- Ubuntu Server, OpenMediaVault, KVM  
-- Docker + Docker Compose  
-- Postgres, SQLite  
-- Cloudflare Zero Trust  
-- NocoDB  
-- VS Code  
+- Ubuntu Server
+- Linux
+- Docker + Docker Compose
+- KVM
+- PostgreSQL
+- SQLite
+- Cloudflare Zero Trust
+- NocoDB
+- ERPNext
+- VS Code
 
 ### **Automation & DevOps**
-- n8n  
-- GitHub Actions (coming soon)  
-- Shell scripting  
-- System provisioning & workstation setup  
+- n8n
+- Git / GitHub
+- GitHub Actions
+- REST APIs
+- Shell scripting
+- System provisioning
+- Workflow automation
+
+### **Accessibility**
+- WCAG
+- Section 508
+- Siteimprove
+- Semantic HTML
+- ARIA
+- Keyboard and screen-reader accessibility
 
 ---
 
-## 📂 Featured Work (in progress & coming soon)
+## 📂 Featured Work
 
 ### 🏢 **Infrastructure / DevOps**
-- **Infrastructure**  
-  Dockerized self-hosted environment for automation, databases, and development tools.
+- **Self-Hosted Infrastructure**  
+  Dockerized Linux environments supporting development, automation, databases, documentation, cloud services, and internal applications.
 
-- **Workstation Setup Scripts**  
-  Automated provisioning toolkit for my development workstation(s).
+- **Workstation & Server Automation**  
+  Scripts and tooling for provisioning development systems, servers, and repeatable environments.
 
 - **n8n Automation Pipelines**  
-  AI-assisted CSV creation, Google Drive automation, and content-generation pipelines.
+  Automated API workflows, data-processing pipelines, synchronization jobs, and backend integrations.
 
 ---
 
-### 🛒 **Systems**
-- **Warehouse Management System (WMS)**  
-  Full-stack inventory and barcode platform for electronics refurbishing.
+### 🎮 **LootCrossing**
+A multi-game market intelligence and crafting-analysis platform focused on gathering market data, analyzing recipes, calculating profitability, and identifying valuable crafting opportunities.
+
+Technologies include:
+- React
+- TypeScript
+- PostgreSQL
+- n8n
+- REST APIs
+- Automated market-data collection
+
+---
+
+### 🛒 **ReTechX**
+Technology and systems supporting electronics refurbishing, repair operations, inventory management, supplier integrations, and e-commerce automation.
+
+Current areas of development include:
+- ERPNext
+- Inventory management
+- WooCommerce integrations
+- Supplier API synchronization
+- Repair workflow automation
+- Barcode and asset tracking
 
 ---
 
 ### 🖥️ **Web & WordPress Development**
-- WordPress component library  
-- Custom theme and UI development  
-- Gradient/UI branding systems  
-- Performance & security hardening scripts  
+- Accessible WordPress components
+- Custom themes and UI development
+- WCAG remediation
+- Performance optimization
+- Security hardening
+- Custom PHP and JavaScript functionality
 
 ---
 
 ## 🎓 Certifications
-- **CompTIA Security+ (Expired)**  
-- **Certified Ethical Hacker (CEH) (Expired)**  
-- **Splunk Core Certified User**  
-- Additional IT, security, and ministry leadership training
+
+- **CompTIA Security+** *(Expired)*
+- **Certified Ethical Hacker (CEH)** *(Expired)*
+- **Splunk Core Certified User**
+- Additional training in cybersecurity, accessibility, software development, and systems administration
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Next.js full-stack patterns  
-- Scalable automation pipelines  
-- OSINT tools and investigation workflows  
-- Pastoral counseling and discipleship development  
-- Improving documentation systems with MkDocs
+
+- Advanced React and full-stack application development
+- Python application development
+- Scalable automation architectures
+- API integration and data engineering
+- Linux and container infrastructure
+- Web accessibility engineering
+- Software architecture and system design
+- AI-assisted development workflows
 
 ---
 
 ## 🤝 Connect with Me
 
 - 💼 **LinkedIn:**  
-https://www.linkedin.com/in/paul-washington-473961151/
+  https://www.linkedin.com/in/paul-washington-473961151/
 
-- 🔧 **ReTechX Electronics Refurbishing:**  
+- 🔧 **ReTechX:**  
   [eBay Store](https://www.ebay.com/usr/retechxofficial)
 
 - 💬 **Discord:**  
@@ -118,5 +180,4 @@ https://www.linkedin.com/in/paul-washington-473961151/
 
 ---
 
-
-Thanks for visiting — always building, always learning, always serving. 🙌
+Thanks for visiting. Always building, always learning, and probably running one more Docker container than I should be. 🐳
